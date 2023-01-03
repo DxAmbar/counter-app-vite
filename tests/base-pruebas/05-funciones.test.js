@@ -25,8 +25,8 @@ describe('Pruebas en 05-funciones', () => {
         expect(user).toEqual({
             uid:'ABC567',
             username: name
-        })
+        });
 
-    })
+    });
     
 });
