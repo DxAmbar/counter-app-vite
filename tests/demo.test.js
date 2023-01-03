@@ -1,6 +1,17 @@
-test ('Esta prueba no debe de fallar', () =>{
+describe('Pruebas en <DemoComponent/>', () => {
+   
+    test ('Esta prueba no debe de fallar', () =>{
+    //las pruebas tienen 3 pasos
 
-    if ( 0===1 ) {
-        throw new Error ('No puede dividir entre 0');
-    }
-} )
+    //inicialización
+    const message1 = 'Hola Mundo';
+
+    //estímulo
+    const message2 = message1.trim();
+
+    //observar el comportamiento... esperado
+    expect(message1).toBe(message2);
+});
+
+});
+
