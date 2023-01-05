@@ -6,7 +6,7 @@ Es una App sencilla que parte con un valor al que se le puede sumar o restar una
 
 [![CounterApp screenshot](https://i.ibb.co/kh8n8r9/capp.jpg "CounterApp screenshot")](https://i.ibb.co/kh8n8r9/capp.jpg "CounterApp screenshot")
 
-###Temas Abarcados
+### Temas Abarcados
 
 Se empieza desde cómo crear una aplicación de React con Vite desde la terminal de comandos; se refuerzan conocimientos de JavaScript y se le aplican pruebas a cada uno de los ejercicios para tener una base antes de comenzar las pruebas en componentes de React. Se finaliza creando una aplicación sencilla para entender lo básico del framework, instalar las dependencias y librerías necesarias para hacer las pruebas a los componentes de la aplicación.
 
